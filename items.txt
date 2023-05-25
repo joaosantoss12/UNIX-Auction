@@ -1,0 +1,5 @@
+1 cadeira mobilia 50 100 5352 joao bia
+2 carro automoveis 500 600 5353 bia joao
+3 ola telemoveis 100 101 9978 bia joao
+4 ola consumiveis 100 75 9978 bia joao
+5 ola alimentacao 100 101 9978 bia joao
